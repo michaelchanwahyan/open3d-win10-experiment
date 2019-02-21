@@ -1,0 +1,13 @@
+.vs 
+*.tlog
+*.log
+*.obj
+*.iobj
+*.pdb
+*.ipdb
+*.idb
+*.ilk
+*.exe
+*.zip
+*.csv
+

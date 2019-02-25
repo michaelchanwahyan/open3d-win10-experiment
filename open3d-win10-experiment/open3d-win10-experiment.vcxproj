@@ -98,6 +98,14 @@
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalLibraryDirectories>C:\Users\pikac\Documents\SOURCE\Open3D\build\src\Visualization\Visualization.dir\Release;C:\Users\pikac\Documents\SOURCE\Open3D\build\src\IO\IO.dir\Release;C:\Users\pikac\Documents\SOURCE\Open3D\build\src\Core\Core.dir\Release;C:\Users\pikac\Documents\SOURCE\Open3D\build\lib\Release;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>C:\Program Files (x86)\Open3D\lib\glew.lib;
+C:\Program Files (x86)\Open3D\lib\glfw3.lib;
+C:\Program Files (x86)\Open3D\lib\jpeg.lib;
+C:\Program Files (x86)\Open3D\lib\jsoncpp.lib;
+C:\Program Files (x86)\Open3D\lib\Open3D.lib;
+C:\Program Files (x86)\Open3D\lib\png.lib
+;C:\Program Files (x86)\Open3D\lib\tinyfiledialogs.lib;
+C:\Program Files (x86)\Open3D\lib\zlib.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
@@ -116,6 +124,14 @@
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalLibraryDirectories>C:\Users\pikac\Documents\SOURCE\Open3D\build\src\Visualization\Visualization.dir\Release;C:\Users\pikac\Documents\SOURCE\Open3D\build\src\IO\IO.dir\Release;C:\Users\pikac\Documents\SOURCE\Open3D\build\src\Core\Core.dir\Release;C:\Users\pikac\Documents\SOURCE\Open3D\build\lib\Release;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>C:\Program Files (x86)\Open3D\lib\glew.lib;
+C:\Program Files (x86)\Open3D\lib\glfw3.lib;
+C:\Program Files (x86)\Open3D\lib\jpeg.lib;
+C:\Program Files (x86)\Open3D\lib\jsoncpp.lib;
+C:\Program Files (x86)\Open3D\lib\Open3D.lib;
+C:\Program Files (x86)\Open3D\lib\png.lib
+;C:\Program Files (x86)\Open3D\lib\tinyfiledialogs.lib;
+C:\Program Files (x86)\Open3D\lib\zlib.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -138,6 +154,14 @@
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalLibraryDirectories>C:\Users\pikac\Documents\SOURCE\Open3D\build\src\Visualization\Visualization.dir\Release;C:\Users\pikac\Documents\SOURCE\Open3D\build\src\IO\IO.dir\Release;C:\Users\pikac\Documents\SOURCE\Open3D\build\src\Core\Core.dir\Release;C:\Users\pikac\Documents\SOURCE\Open3D\build\lib\Release;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>C:\Program Files (x86)\Open3D\lib\glew.lib;
+C:\Program Files (x86)\Open3D\lib\glfw3.lib;
+C:\Program Files (x86)\Open3D\lib\jpeg.lib;
+C:\Program Files (x86)\Open3D\lib\jsoncpp.lib;
+C:\Program Files (x86)\Open3D\lib\Open3D.lib;
+C:\Program Files (x86)\Open3D\lib\png.lib
+;C:\Program Files (x86)\Open3D\lib\tinyfiledialogs.lib;
+C:\Program Files (x86)\Open3D\lib\zlib.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -160,6 +184,14 @@
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalLibraryDirectories>C:\Users\pikac\Documents\SOURCE\Open3D\build\src\Visualization\Visualization.dir\Release;C:\Users\pikac\Documents\SOURCE\Open3D\build\src\IO\IO.dir\Release;C:\Users\pikac\Documents\SOURCE\Open3D\build\src\Core\Core.dir\Release;C:\Users\pikac\Documents\SOURCE\Open3D\build\lib\Release;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>C:\Program Files (x86)\Open3D\lib\glew.lib;
+C:\Program Files (x86)\Open3D\lib\glfw3.lib;
+C:\Program Files (x86)\Open3D\lib\jpeg.lib;
+C:\Program Files (x86)\Open3D\lib\jsoncpp.lib;
+C:\Program Files (x86)\Open3D\lib\Open3D.lib;
+C:\Program Files (x86)\Open3D\lib\png.lib
+;C:\Program Files (x86)\Open3D\lib\tinyfiledialogs.lib;
+C:\Program Files (x86)\Open3D\lib\zlib.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
